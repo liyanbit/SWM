@@ -1,4 +1,5 @@
 <font color="green">lalala</font>
+printf("/n");
 <font color="red">play a game</font>
 ## since we met
 
