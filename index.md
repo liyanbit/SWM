@@ -1,6 +1,4 @@
-//<font color="green">lalala</font>
-
-//<font color="red">play a game</font>
+//<font color="red">lalala</font>
 ## since we met
 
 LY And WP
