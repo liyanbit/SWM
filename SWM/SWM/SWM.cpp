@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-	printf("Since we met......");
+    printf("Since we met......");
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
